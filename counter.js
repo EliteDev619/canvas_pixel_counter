@@ -15,6 +15,7 @@ function go(message) {
     });
 }
 
+/// this is canvas pixel counter
 /**
  * Counts the number of pixels per a unique color
  * https://stackoverflow.com/questions/19499500/canvas-getimagedata-for-optimal-performance-to-pull-out-all-data-or-one-at-a
